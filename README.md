@@ -23,8 +23,8 @@ I'm full-stack developer with experience designing and developing full-stack app
 
 <!-- ![GitHub all releases](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mingyu-hong/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-hong/)
 &nbsp;
-
+<!-- https://i.stack.imgur.com/gVE0j.png -->
 📫 Reach out to me @ mingyuhong24@gmail.com.
 
