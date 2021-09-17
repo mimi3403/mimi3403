@@ -21,7 +21,10 @@ I'm full-stack developer with experience designing and developing full-stack app
 ![GitHub all releases](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
 ![GitHub all releases](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-<!-- ![GitHub all releases](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logo=appveyor&link=?link=http://right&link=https://www.linkedin.com/in/mingyu-hong/) -->
+<!-- ![GitHub all releases](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mingyu-hong/)
+&nbsp;
 
 📫 Reach out to me @ mingyuhong24@gmail.com.
 
